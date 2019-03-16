@@ -1,2 +1,3 @@
 # hello-world
-First Repository
+第一个存储库
+JavaScript,Java,Python...
